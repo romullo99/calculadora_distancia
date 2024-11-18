@@ -54,7 +54,7 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
 
 4. Execute o projeto:
    ```bash
-   expo start
+   npx expo start
 
 5. Como Usar
    ```bash
