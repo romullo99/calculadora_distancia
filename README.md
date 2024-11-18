@@ -34,15 +34,15 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
 
 2. Navegue até o diretório do projeto:
    ```bash
-cd calculadora-distancia
+   cd calculadora-distancia
 
 3. Instale as dependências:
    ```bash
-npm install
+   npm install
 
 4. Execute o projeto:
    ```bash
-expo start
+   expo start
 
 Como Usar
 Abra o aplicativo em um dispositivo ou emulador.
