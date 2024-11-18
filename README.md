@@ -17,9 +17,13 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
 ## Como Funciona
 
 **Localização Atual**: O aplicativo solicita permissão para acessar a localização do dispositivo. Caso a permissão seja concedida, ele exibe a localização atual no mapa.
+
 **Busca de CEP**: O usuário insere um CEP válido e clica em "Buscar Endereço e Calcular Distância". O aplicativo utiliza a API **ViaCEP** para obter o endereço completo e converte o endereço em coordenadas geográficas.
+
 **Cálculo de Distância**: A distância entre a localização atual e o endereço é calculada usando a fórmula de **Haversine**, que calcula a distância entre dois pontos na superfície da Terra.
+
 **Exibição no Mapa**: A localização atual e o endereço do CEP são marcados no mapa com marcadores. O mapa é renderizado com a biblioteca **react-native-maps**.
+
 **Limpeza de Campos**: O botão "Limpar Campos" limpa os dados inseridos e reinicia a aplicação.
 
 ## Tecnologias Utilizadas
