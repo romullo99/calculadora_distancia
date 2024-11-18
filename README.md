@@ -44,15 +44,19 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
    ```bash
    expo start
 
-Como Usar
-Abra o aplicativo em um dispositivo ou emulador.
-Clique em "Obter Minha Localização" para buscar a localização atual do dispositivo.
-Digite um CEP válido e clique em "Buscar Endereço e Calcular Distância".
-Veja a distância calculada entre sua localização e o endereço do CEP.
-O mapa exibirá a localização atual e o endereço em marcadores.
-Clique em "Limpar Campos" para reiniciar o processo.
-Contribuição
-Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+5. Como Usar
+   ```bash
+   Abra o aplicativo em um dispositivo ou emulador.
+   Clique em "Obter Minha Localização" para buscar a localização atual do dispositivo.
+   Digite um CEP válido e clique em "Buscar Endereço e Calcular Distância".
+   Veja a distância calculada entre sua localização e o endereço do CEP.
+   O mapa exibirá a localização atual e o endereço em marcadores.
+   Clique em "Limpar Campos" para reiniciar o processo.
+   
+6. Contribuição
+   ```bash
+   Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
-Este projeto está licenciado sob a MIT License.
+7. Licença
+   ```bash
+   Este projeto está licenciado sob a MIT License.
