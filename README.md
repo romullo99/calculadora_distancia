@@ -58,5 +58,5 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
    Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
-   ```bash
+   
    Este projeto está licenciado sob a MIT License.
