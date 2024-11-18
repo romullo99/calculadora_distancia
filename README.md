@@ -5,9 +5,13 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
 ## Funcionalidades
 
 **Obter Localização Atual**: Ao clicar no botão "Obter Minha Localização", o aplicativo solicita permissão para acessar a localização do dispositivo e exibe as coordenadas no mapa.
+
 **Buscar Endereço por CEP**: O usuário pode inserir um CEP para buscar o endereço correspondente, e o aplicativo calcula a distância entre a localização atual e o endereço informado.
+
 **Exibição de Mapa**: Exibe um mapa interativo mostrando a localização atual do usuário e o endereço buscado pelo CEP.
+
 **Cálculo de Distância**: A distância entre a localização atual e o endereço informado é calculada e exibida em quilômetros (km).
+
 **Limpeza dos Campos**: O usuário pode limpar os campos e reiniciar a busca a qualquer momento.
 
 ## Como Funciona
