@@ -29,9 +29,13 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
 ## Tecnologias Utilizadas
 
 **React Native**: Para construir o aplicativo móvel.
+
 **Expo Location**: Para acessar a localização do dispositivo.
+
 **axios**: Para fazer requisições HTTP para a API **ViaCEP**.
+
 **react-native-maps**: Para exibir o mapa com a localização e os marcadores.
+
 **Haversine**: Para calcular a distância entre dois pontos geográficos.
 
 ## Instalação
