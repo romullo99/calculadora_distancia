@@ -57,7 +57,7 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
    npx expo start
 
 ## Como Usar
-   ```bash
+
    Abra o aplicativo em um dispositivo ou emulador.
 
    Clique em "Obter Minha Localização" para buscar a localização atual do dispositivo.
