@@ -53,10 +53,10 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
    O mapa exibirá a localização atual e o endereço em marcadores.
    Clique em "Limpar Campos" para reiniciar o processo.
    
-6. Contribuição
-   ```bash
+## Contribuição
+   
    Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-7. Licença
+## Licença
    ```bash
    Este projeto está licenciado sob a MIT License.
