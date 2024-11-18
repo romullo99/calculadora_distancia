@@ -31,6 +31,8 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
 1. Clone este repositório:
    ```bash
    git clone https://github.com/romullo99/calculadora_distancia/
+
+   ```bash
 Navegue até o diretório do projeto:
 
    ```bash
