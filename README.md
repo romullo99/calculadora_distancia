@@ -33,19 +33,14 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
    git clone https://github.com/romullo99/calculadora_distancia/
 
 2. Navegue até o diretório do projeto:
-
    ```bash
 cd calculadora-distancia
 
-   ```bash
-Instale as dependências:
-
+3. Instale as dependências:
    ```bash
 npm install
 
-   ```bash
-Execute o projeto:
-
+4. Execute o projeto:
    ```bash
 expo start
 
