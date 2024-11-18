@@ -56,13 +56,18 @@ Este projeto é um aplicativo em **React Native** que permite aos usuários calc
    ```bash
    npx expo start
 
-5. Como Usar
+## Como Usar
    ```bash
    Abra o aplicativo em um dispositivo ou emulador.
+
    Clique em "Obter Minha Localização" para buscar a localização atual do dispositivo.
+
    Digite um CEP válido e clique em "Buscar Endereço e Calcular Distância".
+
    Veja a distância calculada entre sua localização e o endereço do CEP.
+
    O mapa exibirá a localização atual e o endereço em marcadores.
+
    Clique em "Limpar Campos" para reiniciar o processo.
    
 ## Contribuição
