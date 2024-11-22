@@ -1,6 +1,6 @@
 # Distância Entre Localizações (React Native App)
 
-Este projeto é um aplicativo em **React Native** que permite aos usuários calcular a distância entre a sua localização atual e um endereço fornecido via CEP (Código de Endereçamento Postal). Além disso, o aplicativo exibe a localização em um mapa e fornece informações detalhadas sobre o endereço de origem e destino.
+Este projeto é um aplicativo em **React Native** que permite aos usuários calcular a distância entre a sua localização atual e um endereço fornecido via CEP (Código de Endereçamento Postal), aplicação também armazena os cálculos em um banco de dados para consulta futura, possibilitando o gerenciamento de históricos de buscas. Além disso, o aplicativo exibe a localização em um mapa e fornece informações detalhadas sobre o endereço de origem e destino.
 
 ## Funcionalidades
 
